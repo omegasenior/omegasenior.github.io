@@ -3,139 +3,139 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/my-first-post/</loc>
+    <loc>https://omegasenior.github.io/post/my-first-post/</loc>
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/residencias/</loc>
+    <loc>https://omegasenior.github.io/residencias/</loc>
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/migrate-from-jekyll/</loc>
+    <loc>https://omegasenior.github.io/noticias/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/linked-post/</loc>
+    <loc>https://omegasenior.github.io/noticias/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/go-is-for-lovers/</loc>
+    <loc>https://omegasenior.github.io/noticias/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/hugo-is-for-lovers/</loc>
+    <loc>https://omegasenior.github.io/noticias/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/creating-a-new-theme/</loc>
+    <loc>https://omegasenior.github.io/noticias/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://omegasenior.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/contactos/</loc>
+    <loc>https://omegasenior.github.io/contactos/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://omegasenior.github.io/faq/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/go/</loc>
+    <loc>https://omegasenior.github.io/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/golang/</loc>
+    <loc>https://omegasenior.github.io/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://omegasenior.github.io/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ipsum/</loc>
+    <loc>https://omegasenior.github.io/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/lorem/</loc>
+    <loc>https://omegasenior.github.io/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/noticias/</loc>
+    <loc>https://omegasenior.github.io/noticias/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://omegasenior.github.io/</loc>
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://omegasenior.github.io/post/</loc>
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/programming/</loc>
+    <loc>https://omegasenior.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/programming/</loc>
+    <loc>https://omegasenior.github.io/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/pseudo/</loc>
+    <loc>https://omegasenior.github.io/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/residencias/</loc>
+    <loc>https://omegasenior.github.io/residencias/</loc>
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/starting/</loc>
+    <loc>https://omegasenior.github.io/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://omegasenior.github.io/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/theme/</loc>
+    <loc>https://omegasenior.github.io/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
