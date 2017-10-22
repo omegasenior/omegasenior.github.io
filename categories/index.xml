@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Omega Senior</title>
-    <link>/categories/</link>
+    <link>https://omegaseniorresidencias.com/categories/</link>
     <description>Recent content in Categories on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>Copyright (c) 2017, Omega Senior; todos os direitos reservados.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omegaseniorresidencias.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Construção</title>
-      <link>/categories/constru%C3%A7%C3%A3o/</link>
+      <link>https://omegaseniorresidencias.com/categories/constru%C3%A7%C3%A3o/</link>
       <pubDate>Sun, 03 Sep 2017 13:39:46 +0200</pubDate>
       
-      <guid>/categories/constru%C3%A7%C3%A3o/</guid>
+      <guid>https://omegaseniorresidencias.com/categories/constru%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
