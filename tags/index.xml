@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Omega Senior</title>
-    <link>https://omegasenior.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>Copyright (c) 2017, Omega Senior; todos os direitos reservados.</copyright>
     <lastBuildDate>Sun, 03 Sep 2017 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="https://omegasenior.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Omegasénior</title>
-      <link>https://omegasenior.github.io/tags/omegas%C3%A9nior/</link>
+      <link>/tags/omegas%C3%A9nior/</link>
       <pubDate>Sun, 03 Sep 2017 13:39:46 +0200</pubDate>
       
-      <guid>https://omegasenior.github.io/tags/omegas%C3%A9nior/</guid>
+      <guid>/tags/omegas%C3%A9nior/</guid>
       <description></description>
     </item>
     
