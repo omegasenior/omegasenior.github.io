@@ -127,7 +127,7 @@ function sliders () {
       autoPlay: true,
       stopOnHover: true,
       singleItem: true,
-      lazyLoad: false,
+      lazyLoad: true,
       addClassActive: true,
       afterInit: function () {
         // animationsSlider()
