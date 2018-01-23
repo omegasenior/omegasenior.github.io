@@ -4166,6 +4166,7 @@ a.list-group-item.active > .badge, .nav-pills > .active > a > .badge {
 }
 
 .bg-hv-overlay img {
-  height: 174px;
-  width: 262px;
+  height: 215px;
+  width: 360px;
+  margin: auto;
 }
