@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Residencias on Omega Senior</title>
-    <link>https://omegaseniorresidencias.com/residencias/</link>
+    <link>https://omegasenior.pt/residencias/</link>
     <description>Recent content in Residencias on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>Copyright (c) 2017, Omega Senior; todos os direitos reservados.</copyright>
     <lastBuildDate>Sun, 23 Jul 2017 22:24:10 +0100</lastBuildDate>
     
-	<atom:link href="https://omegaseniorresidencias.com/residencias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omegasenior.pt/residencias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>my first post</title>
-      <link>https://omegaseniorresidencias.com/residencias/</link>
+      <link>https://omegasenior.pt/residencias/</link>
       <pubDate>Sun, 23 Jul 2017 22:24:10 +0100</pubDate>
       
-      <guid>https://omegaseniorresidencias.com/residencias/</guid>
+      <guid>https://omegasenior.pt/residencias/</guid>
       <description>Futuras Instalações
 Com o objetivo de alargar a oferta de serviços aos nossos clientes, a OMEGA SÉNIOR está a construir uma Unidade Residencial destinada à população sénior.
 A Unidade Residencial OMEGA SÉNIOR será uma estrutura criada de raiz para alojar pessoas com diferentes graus de autonomia. Trata-se de uma solução residencial inovadora, planeada a pensar nas necessidades da população sénior, onde os utentes encontrarão as vivências, o conforto e a segurança desejada, num espaço moderno e apelativo.</description>
