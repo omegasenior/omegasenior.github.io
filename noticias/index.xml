@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias on Omega Senior</title>
-    <link>https://omegaseniorresidencias.com/noticias/</link>
+    <link>https://omegasenior.github.io/noticias/</link>
     <description>Recent content in Noticias on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <copyright>Copyright (c) 2017, Omega Senior; todos os direitos reservados.</copyright>
     <lastBuildDate>Sun, 03 Sep 2017 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="https://omegaseniorresidencias.com/noticias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omegasenior.github.io/noticias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Início da construção em 2018</title>
-      <link>https://omegaseniorresidencias.com/noticias/inicio-construcao/</link>
+      <link>https://omegasenior.github.io/noticias/inicio-construcao/</link>
       <pubDate>Sun, 03 Sep 2017 13:39:46 +0200</pubDate>
       
-      <guid>https://omegaseniorresidencias.com/noticias/inicio-construcao/</guid>
-      <description>Início da construção em 2018 com entrada em funcionamento prevista para 2020. A gestão da Unidade Residencial está a cargo de uma equipa especializada, que conta com uma vasta experiência técnica, científica e humana na prestação de cuidados de saúde à população sénior na região do Grande Porto.</description>
+      <guid>https://omegasenior.github.io/noticias/inicio-construcao/</guid>
+      <description>Início de construção 2018 com entrada em funcionamento prevista para 2020. Todos os assuntos com a construção deverão ser tratados com a PREMIUMCOORD, empresa responsável por garantir a qualidade e segurança dos trabalhos.
+TEL: 220 999 447
+TLM: 912 990 214</description>
     </item>
     
   </channel>
