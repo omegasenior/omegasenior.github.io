@@ -3,69 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/noticias/inicio-construcao/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/residencias/</loc>
-=======
     <loc>https://omegasenior.pt/noticias/construcao/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://omegasenior.pt/residencias/</loc>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <lastmod>2017-07-23T22:24:10+01:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/omega-senior-residencias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/categories/</loc>
-=======
     <loc>https://omegasenior.pt/omega-senior-residencias/</loc>
   </url>
   
   <url>
     <loc>https://omegasenior.pt/categories/</loc>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/categories/constru%C3%A7%C3%A3o/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-=======
     <loc>https://omegasenior.pt/categories/constru%C3%A7%C3%A3o/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/contactos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/modulos-de-assistencia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/noticias/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-=======
     <loc>https://omegasenior.pt/contactos/</loc>
   </url>
   
@@ -80,49 +42,22 @@
   <url>
     <loc>https://omegasenior.pt/noticias/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-=======
     <loc>https://omegasenior.pt/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/tags/omegas%C3%A9nior/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-=======
     <loc>https://omegasenior.pt/tags/omegas%C3%A9nior/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omegasenior.github.io/apoio-domiciliario/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/centro-de-dia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/servicos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.github.io/tags/</loc>
-    <lastmod>2017-09-03T13:39:46+02:00</lastmod>
-=======
     <loc>https://omegasenior.pt/precos/</loc>
   </url>
   
@@ -141,7 +76,6 @@
   <url>
     <loc>https://omegasenior.pt/tags/</loc>
     <lastmod>2018-12-09T13:39:46+02:00</lastmod>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     <priority>0</priority>
   </url>
   

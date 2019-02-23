@@ -2,26 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omega Senior</title>
-<<<<<<< HEAD
-    <link>https://omegasenior.github.io/</link>
-    <description>Recent content on Omega Senior</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-pt</language>
-    <lastBuildDate>Sun, 03 Sep 2017 13:39:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://omegasenior.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Início da construção em 2018</title>
-      <link>https://omegasenior.github.io/noticias/inicio-construcao/</link>
-      <pubDate>Sun, 03 Sep 2017 13:39:46 +0200</pubDate>
-      
-      <guid>https://omegasenior.github.io/noticias/inicio-construcao/</guid>
-      <description>Início de construção 2018 com entrada em funcionamento prevista para 2020. Todos os assuntos com a construção deverão ser tratados com a PREMIUMCOORD, empresa responsável por garantir a qualidade e segurança dos trabalhos.
-TEL: 220 999 447
-TLM: 912 990 214</description>
-=======
     <link>https://omegasenior.pt/</link>
     <description>Recent content on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -38,22 +18,14 @@ TLM: 912 990 214</description>
       
       <guid>https://omegasenior.pt/noticias/construcao/</guid>
       <description>Com inauguração marcada para 2020, a residência Omega Sénior encontra-se situada numa grande via de circulação, que estabelece ligação entre a cidade de Vila do Conde e as cidades da Maia, Porto e Matosinhos. A fácil acessibilidade rodoviária, bem como a proximidade de uma vasta rede de transportes públicos, são elementos de mobilidade que estimulam e facilitam o contacto com diversas áreas comerciais e culturais da cidade. Pela sua privilegiada localização e pela qualidade dos serviços que irá dispor, esta residência será um lugar que irá proporcionar muita dignidade e conforto aos residentes.</description>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     </item>
     
     <item>
       <title>my first post</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/residencias/</link>
-      <pubDate>Sun, 23 Jul 2017 22:24:10 +0100</pubDate>
-      
-      <guid>https://omegasenior.github.io/residencias/</guid>
-=======
       <link>https://omegasenior.pt/residencias/</link>
       <pubDate>Sun, 23 Jul 2017 22:24:10 +0100</pubDate>
       
       <guid>https://omegasenior.pt/residencias/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Futuras Instalações
 Com o objetivo de alargar a oferta de serviços aos nossos clientes, a OMEGA SÉNIOR está a construir uma Unidade Residencial destinada à população sénior.
 A Unidade Residencial OMEGA SÉNIOR será uma estrutura criada de raiz para alojar pessoas com diferentes graus de autonomia. Trata-se de uma solução residencial inovadora, planeada a pensar nas necessidades da população sénior, onde os utentes encontrarão as vivências, o conforto e a segurança desejada, num espaço moderno e apelativo.</description>
@@ -61,67 +33,38 @@ A Unidade Residencial OMEGA SÉNIOR será uma estrutura criada de raiz para aloj
     
     <item>
       <title></title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/omega-senior-residencias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/omega-senior-residencias/</guid>
-      <description>Inicio A OMEGASÉNIOR é uma empresa de prestação de serviços, orientada para a valorização da pessoa idosa e do seu papel na sociedade. Com o objetivo de alargar a oferta de serviços aos nossos clientes, a OMEGASÉNIOR está a construir uma Unidade Residencial destinada à população sénior. A Unidade Residencial será uma estrutura criada de raiz para alojar pessoas com diferentes graus de autonomia. Trata-se de uma solução residencial inovadora, planeada a pensar nas necessidades da população sénior, onde os utentes encontrarão as vivências, o conforto e a segurança desejada, num espaço moderno e apelativo.</description>
-=======
       <link>https://omegasenior.pt/omega-senior-residencias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/omega-senior-residencias/</guid>
       <description>Inicio A OMEGASÉNIOR é uma empresa de prestação de serviços, orientada para a valorização das pessoas idosas e do seu papel na sociedade. Com o objetivo de alargar a oferta de serviços aos nossos clientes, a OMEGASÉNIOR está a construir uma Unidade Residencial destinada à população sénior. A Unidade Residencial será uma estrutura criada de raiz para alojar pessoas com diferentes graus de autonomia. Trata-se de uma solução residencial inovadora, planeada a pensar nas necessidades da população sénior, onde os utentes encontrarão as vivências, o conforto e a segurança desejada, num espaço moderno e apelativo.</description>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     </item>
     
     <item>
       <title>Contactos</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/contactos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/contactos/</guid>
-=======
       <link>https://omegasenior.pt/contactos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/contactos/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Estamos aqui para o ajudar Tem alguma duvida? Convidamo-lo a vir conhecer-nos.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/faq/</guid>
-=======
       <link>https://omegasenior.pt/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/faq/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Módulos de Assistência</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/modulos-de-assistencia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/modulos-de-assistencia/</guid>
-=======
       <link>https://omegasenior.pt/modulos-de-assistencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/modulos-de-assistencia/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Módulos de Assistência Os nossos módulos de assistência adaptam-se às necessidades e especificidades de cada utente. SERVIÇO BASE Utentes totalmente independentes SERVIÇO DE ASSISTÊNCIA Utentes dependentes ou semi-dependentes SERVIÇO TEMPORÁRIO Possibilidade de admissão para férias, reabilitação, tratamento ou para um período experimental.</description>
     </item>
     
@@ -136,55 +79,32 @@ A Unidade Residencial OMEGA SÉNIOR será uma estrutura criada de raiz para aloj
     
     <item>
       <title>Serviços</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/apoio-domiciliario/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/apoio-domiciliario/</guid>
-=======
       <link>https://omegasenior.pt/apoio-domiciliario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/apoio-domiciliario/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Serviços Na residência OMEGASÉNIOR pretendemos acolher pessoas independentes, com autonomia total para realizar atos da vida quotidiana mas, acolheremos também pessoas com maior grau de dependência física e/ou emocional. Deste modo iremos proporcionar aos nossos utentes um vasto leque de serviços, tais como:
  Alojamento permanente ou temporário, em quarto triplo, duplo ou individual; Refeições diárias em regime global, de acordo com a carta afixada, ou atendendo às necessidades especificas de cada utente; Tratamento de roupas pessoais, bem como roupa dos quartos; Assistência diária por profissionais especializados; Enfermagem permanente; Acompanhamento médico; Fisioterapia / massagens; Atividades de animação sociocultural; Cuidados da imagem / cabeleireiro / estética / pédicure e manicure; Transporte / acompanhamento ao exterior.</description>
     </item>
     
     <item>
       <title>Serviços</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/centro-de-dia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/centro-de-dia/</guid>
-=======
       <link>https://omegasenior.pt/centro-de-dia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/centro-de-dia/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description>Serviços Na residência OMEGASÉNIOR pretendemos acolher pessoas independentes, com autonomia total para realizar atos da vida quotidiana mas, acolheremos também pessoas com maior grau de dependência física e/ou emocional. Deste modo iremos proporcionar aos nossos utentes um vasto leque de serviços, tais como:
  Alojamento permanente ou temporário, em quarto triplo, duplo ou individual; Refeições diárias em regime global, de acordo com a carta afixada, ou atendendo às necessidades especificas de cada utente; Tratamento de roupas pessoais, bem como roupa dos quartos; Assistência diária por profissionais especializados; Enfermagem permanente; Acompanhamento médico; Fisioterapia / massagens; Atividades de animação sociocultural; Cuidados da imagem / cabeleireiro / estética / pédicure e manicure; Transporte / acompanhamento ao exterior.</description>
     </item>
     
     <item>
       <title>Serviços</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/servicos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omegasenior.github.io/servicos/</guid>
-      <description>Residência Assistida A Unidade Residencial OMEGASÉNIOR é uma estrutura criada de raiz, concebida para acolher pessoas com diferentes graus de autonomia, proporcionando um ambiente tranquilo, seguro e acolhedor. Deste modo, os nossos utentes usufruem de um vasto leque de serviços, tais como:
- Alojamento permanente ou temporário em quarto de casal, duplo ou individual; Refeições diárias de acordo com a carta afixada, ou atendendo às necessidades especificas de cada utente; Tratamento da roupa dos quartos, bem como roupas pessoais; Assistência diária por profissionais especializados; Enfermagem permanente; Acompanhamento médico; Fisioterapia e massagens de relaxamento; Atividades de animação sociocultural; Cabeleireiro e estética; Transporte e acompanhamento ao exterior.</description>
-=======
       <link>https://omegasenior.pt/servicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omegasenior.pt/servicos/</guid>
       <description>Residência Assistida A Unidade Residencial OMEGASÉNIOR é uma estrutura criada de raiz, concebida para acolher pessoas com diferentes graus de autonomia, proporcionando um ambiente tranquilo, seguro e acolhedor. Deste modo, os nossos utentes usufruem de um vasto leque de serviços, tais como:
  Alojamento permanente ou temporário em quarto de casal, triplo, duplo, ou individual; Refeições diárias de acordo com a carta afixada, ou atendendo às necessidades especificas de cada utente; Tratamento da roupa dos quartos, bem como roupas pessoais; Assistência diária por profissionais especializados; Enfermagem permanente; Acompanhamento médico; Fisioterapia e massagens de relaxamento; Atividades de animação sociocultural; Cabeleireiro e estética; Transporte e acompanhamento ao exterior.</description>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     </item>
     
   </channel>

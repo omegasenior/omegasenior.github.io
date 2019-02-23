@@ -2,15 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Omega Senior</title>
-<<<<<<< HEAD
-    <link>https://omegasenior.github.io/tags/</link>
-    <description>Recent content in Tags on Omega Senior</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-pt</language>
-    <lastBuildDate>Sun, 03 Sep 2017 13:39:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://omegasenior.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-=======
     <link>https://omegasenior.pt/tags/</link>
     <description>Recent content in Tags on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -18,22 +9,14 @@
     <lastBuildDate>Sun, 09 Dec 2018 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://omegasenior.pt/tags/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     
     
     <item>
       <title>Omegasénior</title>
-<<<<<<< HEAD
-      <link>https://omegasenior.github.io/tags/omegas%C3%A9nior/</link>
-      <pubDate>Sun, 03 Sep 2017 13:39:46 +0200</pubDate>
-      
-      <guid>https://omegasenior.github.io/tags/omegas%C3%A9nior/</guid>
-=======
       <link>https://omegasenior.pt/tags/omegas%C3%A9nior/</link>
       <pubDate>Sun, 09 Dec 2018 13:39:46 +0200</pubDate>
       
       <guid>https://omegasenior.pt/tags/omegas%C3%A9nior/</guid>
->>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
       <description></description>
     </item>
     
