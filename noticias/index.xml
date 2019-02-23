@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias on Omega Senior</title>
+<<<<<<< HEAD
     <link>https://omegasenior.github.io/noticias/</link>
     <description>Recent content in Noticias on Omega Senior</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -20,6 +21,24 @@
       <description>Início de construção 2018 com entrada em funcionamento prevista para 2020. Todos os assuntos com a construção deverão ser tratados com a PREMIUMCOORD, empresa responsável por garantir a qualidade e segurança dos trabalhos.
 TEL: 220 999 447
 TLM: 912 990 214</description>
+=======
+    <link>https://omegasenior.pt/noticias/</link>
+    <description>Recent content in Noticias on Omega Senior</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sun, 09 Dec 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://omegasenior.pt/noticias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inauguração em 2020</title>
+      <link>https://omegasenior.pt/noticias/construcao/</link>
+      <pubDate>Sun, 09 Dec 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://omegasenior.pt/noticias/construcao/</guid>
+      <description>Com inauguração marcada para 2020, a residência Omega Sénior encontra-se situada numa grande via de circulação, que estabelece ligação entre a cidade de Vila do Conde e as cidades da Maia, Porto e Matosinhos. A fácil acessibilidade rodoviária, bem como a proximidade de uma vasta rede de transportes públicos, são elementos de mobilidade que estimulam e facilitam o contacto com diversas áreas comerciais e culturais da cidade. Pela sua privilegiada localização e pela qualidade dos serviços que irá dispor, esta residência será um lugar que irá proporcionar muita dignidade e conforto aos residentes.</description>
+>>>>>>> c75a1de355c9f0cb24164425a15b67430bbbe521
     </item>
     
   </channel>
