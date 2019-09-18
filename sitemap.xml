@@ -3,21 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://omegasenior.pt/noticias/construcao/</loc>
-    <lastmod>2018-12-09T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.pt/residencias/</loc>
-    <lastmod>2017-07-23T22:24:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.pt/omega-senior-residencias/</loc>
-  </url>
-  
-  <url>
     <loc>https://omegasenior.pt/categories/</loc>
+    <lastmod>2018-12-09T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -28,15 +15,8 @@
   </url>
   
   <url>
-    <loc>https://omegasenior.pt/contactos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.pt/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.pt/modulos-de-assistencia/</loc>
+    <loc>https://omegasenior.pt/noticias/construcao/</loc>
+    <lastmod>2018-12-09T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -58,6 +38,34 @@
   </url>
   
   <url>
+    <loc>https://omegasenior.pt/tags/</loc>
+    <lastmod>2018-12-09T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omegasenior.pt/residencias/</loc>
+    <lastmod>2017-07-23T22:24:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omegasenior.pt/omega-senior-residencias/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omegasenior.pt/contactos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://omegasenior.pt/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://omegasenior.pt/modulos-de-assistencia/</loc>
+  </url>
+  
+  <url>
     <loc>https://omegasenior.pt/precos/</loc>
   </url>
   
@@ -71,12 +79,6 @@
   
   <url>
     <loc>https://omegasenior.pt/servicos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omegasenior.pt/tags/</loc>
-    <lastmod>2018-12-09T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
